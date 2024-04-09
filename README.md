@@ -30,10 +30,6 @@
 ## Credits
 These workshop exercises are built with the help from a number of amazing Kubernetes and Istio Experts from Google and [Grand Cloud](https://www.grandcloud.com).  This content is free to use we only ask that you keep the original attributions included in any future contributions or forks.
 
-#### Ryan Knight [@knight_cloud](https://twitter.com/knight_cloud)
-
-#### Ray Tsang  [@saturnism](https://twitter.com/saturnism)
-
 The Kubernetes and Istio Exercises are derived from the work of Ray Tsang  [@saturnism](https://twitter.com/saturnism)
 
 A lot of the exercises where copied from the [Istio Workshop Google Doc](https://t.co/yDJY1yODzX)
