@@ -44,8 +44,3 @@ And the exercises from these repositories:
 
 [https://github.com/saturnism/istio-by-example-java](https://github.com/saturnism/istio-by-example-java)
 
-#### Zach Butcher [@ZachButcher](https://twitter.com/ZackButcher)
-
-Zach was instrumental in helping write the Istio tutorials and in particular the Istio Mixer Exercises.
-
-####  Ben Edwards  - No Social Media Presence
